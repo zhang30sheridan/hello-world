@@ -1,2 +1,2 @@
 # hello-world
-First GitHub
+Yu Zhang / 991456737 / zhang30 / Davis FOR SYST24444 Exercise 3
